@@ -2,6 +2,7 @@
 
 <img align="right" src="card.png" />
 
+Sample text and sample paragraph blah blah blah hi 
 <!--
 **Ookayleb/Ookayleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
