@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img align="right"> ![Info Card](card.png)  </img>
-<img align="right" src="https://raw.githubusercontent.com/Ookayleb/Ookayleb/master/card.png" />
+<img align="right" src="card.png" />
 
 <!--
 **Ookayleb/Ookayleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
