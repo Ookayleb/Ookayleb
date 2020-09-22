@@ -11,6 +11,8 @@ I like experimenting with cool features and exploring what is possible
 - 🌊 c, c++
 - 📈 node.js
 - 🕸 html, css
+- 🐼 pandas
+- 🐫 oCaml
 
 [LinkedIn](https://www.linkedin.com/in/caleb-choy-742869155)
 <!--
