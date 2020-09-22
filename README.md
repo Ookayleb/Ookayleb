@@ -8,7 +8,7 @@ I like experimenting with cool features and exploring what is possible
 
 - 🐍 python
 - ☕ javascript, java
-- ©   c, c++
+- 🌊 c, c++
 <!--
 **Ookayleb/Ookayleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
