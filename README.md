@@ -11,6 +11,8 @@ I like experimenting with cool features and exploring what is possible
 - 🌊 c, c++
 - 📈 node.js
 - 🕸 html, css
+
+[LinkedIn](https://www.linkedin.com/in/caleb-choy-742869155)
 <!--
 **Ookayleb/Ookayleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
