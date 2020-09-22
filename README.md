@@ -1,5 +1,5 @@
 ### Hi there 👋
-💻 
+![Info Card](card.png)
 <!--
 **Ookayleb/Ookayleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
