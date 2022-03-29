@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="card.png" />
+<img align="right" src="card2.png" />
 <br />
 <br />
 <br />
